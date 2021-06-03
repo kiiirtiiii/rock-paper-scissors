@@ -1,5 +1,15 @@
 # rock-paper-scissors
-Simple game using "tkinter" and "random" module in python with different themes to provide costomization to the user.
+Single player game using "tkinter" (python GUI) and "random" module different themes to provide costomization to the user.
+
+## To run this project you have to:
+> 1. Download this peoject "as zip" to your local machine
+> 2. Make sure you've python installed in your system and have an upgraded version of pip.
+> 3. Install the following module in your system as:
+```
+pip install tkinter
+```
+*it is possible that tkinter is already installed in your system*
+> 4. Run "rock_paper_scissors.py"
 
 ## Screenshots of the Project
 
