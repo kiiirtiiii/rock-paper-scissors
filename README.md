@@ -1,5 +1,5 @@
 # rock-paper-scissors
-Single player game using "tkinter" (python GUI) and "random" module different themes to provide costomization to the user.
+Single player game using "tkinter" (python GUI) and "random" module with different themes to provide costomization to the user.
 
 ## To run this project you have to:
 > 1. Download this peoject "as zip" to your local machine
